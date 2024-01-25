@@ -8,4 +8,7 @@ public class HomePage {
 
 
     // more things for logo
+    //adding more things
+
+    // to have some history
 }
